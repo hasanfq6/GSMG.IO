@@ -17,6 +17,8 @@ This document contains a comprehensive record of our research, findings, and sol
 - The prize address with 5 BTC is [1GSMG1JC9wtdSwfwApgj2xcmJPAwx7prBe](https://www.blockchain.com/btc/address/1GSMG1JC9wtdSwfwApgj2xcmJPAwx7prBe)
 - The creator of the puzzle intended to halve the prize each time Bitcoin halving occurs. It happened for the first time on May 11, 2020, so the current value is 2.5 BTC.
 
+[image](image.jpg)
+
 ## Puzzle Phases Solved
 
 ### Phase 1: The Initial Image
