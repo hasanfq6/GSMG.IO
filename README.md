@@ -2,6 +2,12 @@
 
 This document contains a comprehensive record of our research, findings, and solution attempts for the GSMG.IO 5 BTC puzzle challenge. The goal was to find the private key corresponding to the Bitcoin address `1GSMG1JC9wtdSwfwApgj2xcmJPAwx7prBe`, which currently holds 2.5 BTC.
 
+## Support / Donations
+
+If you’d like to support, you can donate to the following address:
+
+**Bitcoin Address:** `1Mw2kwg64J5LykLsRQUSqojtNR1kWGci4`
+
 ## Table of Contents
 
 1. [Puzzle Overview](#puzzle-overview)
@@ -727,3 +733,4 @@ It's possible that solving this puzzle requires:
 4. Significant computational resources for brute-forcing
 
 The puzzle remains unsolved, but the journey through its various phases has provided valuable insights into cryptography, steganography, and Bitcoin key derivation methods.
+
